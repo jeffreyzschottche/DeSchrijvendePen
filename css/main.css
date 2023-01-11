@@ -2,6 +2,19 @@ html, body {
   overflow-x: hidden;
 }
 
+
+.projectpic{
+  height: 400px !important;
+}
+.card-img-top{
+  height: 350px !important;
+}
+
+.logoicon{
+  width: 200px;
+  height: 100px;
+}
+
 /**
  * Enable smooth scrolling on the whole document
  */
